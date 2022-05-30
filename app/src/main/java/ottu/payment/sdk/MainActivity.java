@@ -81,8 +81,6 @@ public class MainActivity extends AppCompatActivity implements OttuPaymentCallba
                     listpg.add("ottu_pg_kwd_tkn");
                 }
 
-
-
                 if (language.equals("en") || language.equals("ar")){
                     createTrx(Float.parseFloat(amount));
                     rbOttupg.setChecked(false);
