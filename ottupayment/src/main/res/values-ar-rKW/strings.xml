@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_number_not_correct">"رقم البطاقة غير صحيح"</string>
+    <string name="expire_data_notbe_past">لقد أدخلت تاريخ انتهاء الصلاحية بشكل غير صحيح</string>
+    <string name="click_save_card">حفظ البطاقة</string>
+    <string name="saved_card">البطاقات المحفوظة</string>
+    <string name="payment_method">طريقة الدفع او السداد</string>
+    <string name="apple_pay">Apple Pay</string>
+    <string name="paynow">ادفع الآن</string>
+    <string name="enter_carddetail">Enter card detail</string>
+    <string name="title_activity_web_payment">WebPaymentActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="confirm_delete">إذا كنت لا تريد عرض طريقة الدفع هذه في خيارات الدفع</string>
+    <string name="payment_detail">تفاصيل الدفع</string>
+    <string name="reference_number">Reference Number : </string>
+    <string name="Amount">"Amount : "</string>
+    <string name="Gatway">"Gateway : "</string>
+    <string name="transaction_successfull">"مبروك تم تحويلك بنجاح"</string>
+    <string name="transaction_fail">"آسف! فشل الدفع يرجى التحقق من تفاصيل بطاقتك."</string>
+    <string name="Status">"Status : "</string>
+    <string name="save_card_info">باستخدام البطاقة المحفوظة ، يمكنك تخطي إدخال تفاصيل البطاقة في معاملاتك التالية</string>
+    <string name="total_bill">المجموع</string>
+    <string name="list_gatway">قائمة بجميع البوابات التي ندعمها</string>
+    <string name="list_card_saved">قائمة البطاقات المحفوظة</string>
+    <string name="payment_fail">عملية الدفع فشلت</string>
+    <string name="thankyou">شكرا!</string>
+    <string name="ok">موافق</string>
+    <string name="loading">loading...</string>
+    <string name="No">No</string>
+    <string name="yes">Yes</string>
+        <string name="name_card">الاسم على البطاقة</string>
+    <string name="card_number">رقم البطاقة</string>
+    <string name="date_hint">شهر/سنة</string>
+    <string name="cvv">رمز التحقق من البطاقة</string>
+    <string name="debit_creditcard">بطاقة الصراف الآلي / بطاقة ائتمان</string>
+    <string name="expire_on">تنتهي في</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">الغاء</string>
+    <string name="will_applied">سوف تطبق</string>
+    <string name="sub_total">المجموع الفرعي</string>
+    <string name="fee">مصاريف</string>
+    <string name="close">قريب</string>
+    <string name="is_paid">مدفوع</string>
+    <string name="card_name_error">"أدخل اسم صاحب البطاقة"</string>
+</resources>

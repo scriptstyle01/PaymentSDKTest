@@ -1,0 +1,51 @@
+<resources>
+    <string name="card_number_not_correct">"Card number is not correct "</string>
+    <string name="expire_data_notbe_past">You have incorrectly entered your expiration date</string>
+    <string name="click_save_card">Click To Save Your Card</string>
+    <string name="saved_card">Saved Cards</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="apple_pay">Apple Pay</string>
+    <string name="paynow">Pay Now</string>
+    <string name="enter_carddetail">Enter card detail</string>
+    <string name="title_activity_web_payment">WebPaymentActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="confirm_delete">Click Confirm if you don\'t want this payment method to be displayed in your payment options</string>
+    <string name="payment_detail">Payment Details</string>
+    <string name="reference_number">Reference Number : </string>
+    <string name="Amount">"Amount : "</string>
+    <string name="Gatway">"Gateway : "</string>
+    <string name="transaction_successfull">"Congratulations your transfer was completed successfully"</string>
+    <string name="transaction_fail">"sorry! your payment is failed \n please check your card detail."</string>
+    <string name="Status">"Status : "</string>
+    <string name="save_card_info">With saved card you can skip entering card detail in your next transactions</string>
+    <string name="total_bill">Total</string>
+    <string name="list_gatway">List of all gatways we support</string>
+    <string name="list_card_saved">List of all cards saved</string>
+    <string name="payment_fail">Payment Failed</string>
+    <string name="thankyou">Thank You!</string>
+    <string name="ok">Ok</string>
+    <string name="loading">loading...</string>
+    <string name="No">No</string>
+    <string name="yes">Yes</string>
+    <string name="name_card">Name On Card</string>
+    <string name="card_number">Card Number</string>
+    <string name="date_hint">MM/YY</string>
+    <string name="cvv">CVV</string>
+    <string name="debit_creditcard">Debit / Credit Card</string>
+    <string name="expire_on">Expires on</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="will_applied"><font color='#FF000000'>will applied</font></string>
+    <string name="sub_total">Sub-Total</string>
+    <string name="fee">Fee</string>
+    <string name="close">Close</string>
+    <string name="is_paid">is paid</string>
+    <string name="card_name_error">"Enter name of card holder "</string>
+</resources>
